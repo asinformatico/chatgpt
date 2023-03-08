@@ -20,7 +20,7 @@ Donde las XX serán diferentes caracteres alfanuméricos generados por OpenAI y 
 Inicialmente se proporcionan 3 ejemplos distintos:
 
 1. Script en Python para uso de chatGPT mediante la línea de comandos, totalmente operativo en móviles Android con Termux.
-2. Script en Python con uso de TKinker para generación de una aplicación de escritorio (funcional en sistemas Windows y Linux).
+2. Script en Python con uso de TKinker para generación de una aplicación de escritorio (funcional en sistemas Windows y Linux), permite guardar las conversaciones en archivos de texto.
 3. Aplicación de escritorio desarrollada con Gambas3 (solo disponible para sistemas operativos Linux).
 
 <b>Nota:</b>
