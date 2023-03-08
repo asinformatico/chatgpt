@@ -1,9 +1,9 @@
 import openai
-from colorama import Fore, Back, init
-init()
 import csv
 import sys
 import os
+from colorama import Fore, Back, init
+init()
 
 # En el archivo mi_api_key debe estar la Clave API que nos ha proporcionado OpenAI.
 os.system('clear')
