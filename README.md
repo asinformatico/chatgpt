@@ -23,6 +23,11 @@ Inicialmente se proporcionan 3 ejemplos distintos:
 2. Script en Python con uso de TKinker para generación de una aplicación de escritorio (funcional en sistemas Windows y Linux), permite guardar las conversaciones en archivos de texto.
 3. Aplicación de escritorio desarrollada con Gambas3 (solo disponible para sistemas operativos Linux).
 
+Pulsar en cada imagen para ampliar:
+<div align="center">
+<img src="https://github.com/asinformatico/chatgpt/blob/main/imagenes/chatgpt-cmd.png" width="179" height="367"> <img src="https://github.com/asinformatico/chatgpt/blob/main/imagenes/chatgpt-tk.png" width="203" height="163"> <img src="https://github.com/asinformatico/chatgpt/blob/main/imagenes/chatgpt-gambas3.png" width="273" height="228">
+</div>
+<br>
 <b>Nota:</b>
 Debe asegurarse que los módulos OpenAI (usado en todos los scripts hechos con Python) y Colorama (solo usado en el script para línea de comandos) para Python existen en su sistema para que funcionen los scripts.
 Si no dispone de ellos puede instalarlos desde la línea de comandos mediante pip:
