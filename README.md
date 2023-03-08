@@ -13,8 +13,8 @@ Para obtener una clave API de OpenAI, primero debes crear una cuenta en su sitio
 
 Es importante tener en cuenta que la clave de API de OpenAI es sensible y debe ser tratada como información confidencial. Asegúrate de no compartirla públicamente o con personas no autorizadas.
 
-Para no incluir la clave directamente en los scripts, la misma se lee de un archivo adicional llamado <b>"mi_api_key"</b> en el cual tan solo debes copiar la clave proporcionada por OpenAI. Este por defecto debe estar en la misma carpeta de trabajo que el propio script (modificando el mismo se puede cambiar la ruta si se desea).
-La clave API tendra el siguiente formato: sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Para no incluir la clave directamente en los scripts, la misma se lee de un archivo adicional llamado <b>"mi_api_key"</b> en el cual tan solo debes copiar la clave proporcionada por OpenAI. Este por defecto debe estar en la misma carpeta de trabajo que el propio script (modificando el mismo se puede cambiar la ruta si se desea).<br>
+La clave API tendra el siguiente formato: sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
 Donde las XX serán diferentes caracteres alfanuméricos generados por OpenAI y asignados a nuestra cuenta.
 
 Inicialmente se proporcionan 3 ejemplos distintos:
