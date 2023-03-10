@@ -35,5 +35,9 @@ Si no dispone de ellos puede instalarlos desde la línea de comandos mediante pi
 - Instalación del módulo openai: <b>pip3 install openai</b>
 - Instalación del módulo colorama: <b>pip3 install colorama</b>
 
+<b>Changelog</b><br>
+- 10-03-2023 - 8151de53a0881c1d40f1ab38110b7eb025a95833:<br>
+Se ha añadido en el código una detección de plataforma para que las llamadas a os.system() funcionen tanto en sistemas basados en Windows como Linux sin tener que hacer ninguna edición adicional del código (solicitado por algunos usuarios de Windows).<br>
+Se han añadido algunas líneas en blanco para mejorar la legibilidad del código.
 
 
